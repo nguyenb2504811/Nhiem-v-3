@@ -15,7 +15,7 @@ Infographic này tóm tắt các ứng dụng cốt lõi của Trí tuệ nhân 
 
 ## 🖼️ Xem trước sản phẩm
 ![Infographic](ten-file-anh-cua-ban.png) 
-*(Lưu ý: Thay "ten-file-anh-cua-ban.png" bằng tên file bạn đã upload ở Bước 2)*
+
 
 ---
 
