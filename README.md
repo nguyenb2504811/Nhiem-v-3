@@ -14,7 +14,7 @@ Infographic này tóm tắt các ứng dụng cốt lõi của Trí tuệ nhân 
 ---
 
 ## 🖼️ Xem trước sản phẩm
-![Infographic].
+![Infographic]
 
 ---
 
